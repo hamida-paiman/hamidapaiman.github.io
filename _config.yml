@@ -1,0 +1,22 @@
+title: Hamida Paiman — Data Science ML/AI Engineering
+description: Portfolio showcasing projects in Data Science, Machine Learning, AI.
+author: Hamida Paiman
+email: you@example.com
+url: ""   # e.g., https://hamidapaiman.github.io (you can set later)
+baseurl: ""  # keep empty for user.github.io sites
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - about.md
+  - projects.md
+  - certificates.md
+  - volunteer.md
+  - blog.md
+  - contact.md
+
+minima:
+  skin: auto  # try: auto, dark, classic, solarized
